@@ -1,8 +1,8 @@
 # snappify ProductHunt GIF
 
 <p align="center">
-  <a href="https://github.com/remotion-dev/logo">
-    <img src="https://github.com/remotion-dev/logo/raw/main/withtitle/element-0.png">
+  <a href="https://www.producthunt.com/posts/snappify">
+    <img src="https://user-images.githubusercontent.com/4418879/164258740-7f0430d7-c8c0-4201-b9fe-193ddf71e38b.gif">
   </a>
 </p>
 
